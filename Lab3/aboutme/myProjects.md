@@ -10,7 +10,47 @@ Create a game using our basic C# level knowledge. This game includes a score sys
   * Visual Studio
   
 ## Code Snippets from Projects: ##
+```
+Console.Clear();
+            Console.ForegroundColor = ConsoleColor.DarkCyan; //Used to make menu: https://asciiflow.com & https://asciiart.cc/t-10736/fish
+            Console.WriteLine("┌───────────────────────────────────────────────────────────────────────────────────────┐");
+            Console.WriteLine("│ ┌──────┐┌──────┐┌───────┐              ─                o    o  ─                 ─   │");
+            Console.WriteLine("│ │  ┌───┘│ ┌──┐ │└──┐ ┌──┘     ─                 ┌─┐   ─   o─        ─       ─         │");
+            Console.WriteLine("│ │  └─┐  │ └──┘ │   │ │                     ─    │ │     o     o       ,-.-,-,   ─     │");
+            Console.WriteLine("│ │  ┌─┘  │ ┌──┐ │   │ │    ─   ─┬─────┐┌─┐       │ │        o─ ─ o   _/ / / /       /) │");
+            Console.WriteLine("│ │  │    │ │  │ │   │ │         │ ┌─┐ ││ └──┐    │ └──┐┌───┐  ─ ─  ,'        `.   ,'') │");
+            Console.WriteLine("│ │  │    │ │  │ │   │ │     ─   │ │ │ ││ ┌─┐│    │ ┌─┐││ ──┤   o _/(@) `.      `./ ,') │");
+            Console.WriteLine("│ │  └───┐│ │  │ │   │ │  ─      │ └─┘ ││ │ └┘    │ └─┘││ ──┤    (____,`  \\:`-.   \\ ,'  │");
+            Console.WriteLine("│ └──────┘└─┘  └─┘   └─┘         └─────┘└─┘       └────┘└───┘     (_      /::::}  / `.) │");
+            Console.WriteLine("│  ────────────────────                          ─                 \\    ,' :,-' ,)\\ `)  │");
+            Console.WriteLine("│  ────────────────────     ─____      ─                         ─  `.        ,')  `..) │");
+            Console.WriteLine("│           ─            /\\|    ~~\\       ─         ─                 \\-....-'\\         │");
+            Console.WriteLine("│     ─             ─  /'  |   ,-. `\\                          ─       `-`-`-`-` ─      │");
+            Console.WriteLine("│                     |       | X |  |                    ─           ─          ─      │");
+            Console.WriteLine("│    ─        ─      _|________`-'   |X     ─                                           │");
+            Console.WriteLine("│       ─          /'          ~~~~~~~~~,   ┌──────┐┌──────┐┌───────┐┌──────┐┌─┐   ┬┐   │");
+            Console.WriteLine("│                /'             ,_____,/_   │  ┌───┘│ ┌──┐ │└──┐ ┌──┘│  ┌───┘│ └─┐ ││   │");
+            Console.WriteLine("│             ,/'        ___,'~~         ;  │  └─┐  │ └──┘ │   │ │   │  └─┐  │ ┌┐└┐││   │");
+            Console.WriteLine("│~|~~~~~~~|---          /  X,~~~~~~~~~~~~,  │  ┌─┘  │ ┌──┐ │   │ │   │  ┌─┘  │ │└┐│││   │");
+            Console.WriteLine("│ |       |            |  XX'____________'  │  │    │ │  │ │   │ │   │  │    │ │ ││││   │");
+            Console.WriteLine("│ |       |           /' XXX|            ;  │  │    │ │  │ │   │ │   │  │    │ │ ││││   │");
+            Console.WriteLine("│ |       |        --x|  XXX,~~~~~~~~~~~~,  │  └───┐│ │  │ │   │ │   │  └───┐│ │ │└┘│   │");
+            Console.WriteLine("│ |       |          X|     '____________'  └──────┘└─┘  └─┘   └─┘   └──────┘└─┘ └──┘   │");
+            Console.WriteLine("│ |   o   |---~~~~\\__XX\\             |XX     ───────────────────────────────────────    │");
+            Console.WriteLine("│ |       |          XXX`\\          /XXXX    ───────────────────────────────────────    │");
+            Console.WriteLine("│~'~~~~~~~'               `\\xXXXXx/' \\XXX         ─          ─                          │");
+            Console.WriteLine("│        ─          ─      /XXXXXX\\                                    ─       ─        │");
+            Console.WriteLine("│                        /XXXXXXXXXX\\                 ─                                 │");
+            Console.WriteLine("│    ─                 /XXXXXX/^\\XDCAU\\                                                 │");
+            Console.WriteLine("│          ─          ~~~~~~~~   ~~~~~~~                                                │");
+            Console.WriteLine("└───────────────────────────────────────────────────────────────────────────────────────┘");
+            Console.ResetColor();
+```
+
 ## Screenshot from the Project: ##
+![EatorbeEaten Image 1](EatorbeEaten1.png)
+
+![EatorbeEaten Image 2](EatorbeEaten2.png)
 
 ### What I learned? (short reflection) ###
 ### Link to repo (if available) ###
