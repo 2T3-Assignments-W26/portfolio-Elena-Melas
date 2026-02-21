@@ -1,6 +1,3 @@
-resume.md
-20/02/2026
-
 ![Image of Elena](Elena_Resume_Image.jpg)
 
 # *Elena Melas* #
