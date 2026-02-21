@@ -24,6 +24,11 @@ Positive and composed attitude in a working environment with problem-solving ski
 * Supervising site, crew and safety measures.
 * Load and unloading constructing material for building process.
 
-Skills
+## Skills ##
+
+|*Technical*      | *Communications*|
+|-----------------|-----------------|
+|Programming (C#) | Resolutions     |
+|Wordpress        | Sales           |
 
 Education
