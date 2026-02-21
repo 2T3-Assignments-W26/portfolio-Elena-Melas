@@ -9,7 +9,7 @@ Create a game using our basic C# level knowledge. This game includes a score sys
   * Omnivox
   * Visual Studio
   
-## Code Snippets from Projects: ##
+## Code Snippets from Projects - Main Menu Output: ##
 ```
 Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkCyan; //Used to make menu: https://asciiflow.com & https://asciiart.cc/t-10736/fish
@@ -72,8 +72,37 @@ Help us understand the basic fundamentals of HTML and CSS by navigating a simple
   * Visual Studio Code
   * Google (Research different styling)
   
-## Code Snippets from Projects: ##
+## Code Snippets from Projects - CSS: ##
+```
+h1 {
+    color: #3e2723;
+    background-color: transparent;
+    text-align: center;
+    font-size: 90px;
+    width: 90%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: #8d4004;
+    text-align: center;
+    padding: 5px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin-bottom: 5px;
+}
+```
 ## Screenshot from the Project: ##
+![UI Website Page1](UI_Website_Page1.png)
+
+![UI Website Page2](UI_Website_Page2.png)
 
 ### What I learned? (short reflection) ###
 ### Link to repo (if available) ###
