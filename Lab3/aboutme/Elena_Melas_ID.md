@@ -31,4 +31,8 @@ Positive and composed attitude in a working environment with problem-solving ski
 |Programming (C#) | Resolutions     |
 |Wordpress        | Sales           |
 
-Education
+## Education ##
+|*Degree*         | *School*           | *Year*     |
+|-----------------|--------------------|------------|
+| High School     | Saint-Thomas       | 2020-2025  |
+| Computer Science| John Abbott College|2025-Current|
