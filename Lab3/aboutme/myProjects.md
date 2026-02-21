@@ -4,6 +4,11 @@
 Create a game using our basic C# level knowledge. This game includes a score system, a menu, specific rules depending on the topic, setting area where the game takes place and an objective.
 
 ## Technologies Used: ##
+* Mac Laptop
+* Applications:
+  * Omnivox
+  * Visual Studio
+  
 ## Code Snippets from Projects: ##
 ## Screenshot from the Project: ##
 
@@ -19,6 +24,12 @@ Create a game using our basic C# level knowledge. This game includes a score sys
 Help us understand the basic fundamentals of HTML and CSS by navigating a simple structure and creating a newspaper from a certain decade/era (I chose ancient Greece). Main idea: using float (how difficult it is).
 
 ## Technologies Used: ##
+* Mac latop
+* Applications:
+  * Omnivox
+  * Visual Studio Code
+  * Google (Research different styling)
+  
 ## Code Snippets from Projects: ##
 ## Screenshot from the Project: ##
 
