@@ -53,6 +53,8 @@ Console.Clear();
 ![EatorbeEaten Image 2](EatorbeEaten2.png)
 
 ### What I learned? (short reflection) ###
+Creating a big and long project like this one, especially for the first time requires a lot more time, organisation and commitment than I realised. The amount of hours spent on tweaking, problem-solving and adjusting certain issues, not matter the size, showed how much every little detail matters in your work and it is important to focus all of your attention on creating the best possible outcome in the time you have to perform this project.
+
 ### Link to repo (if available) ###
 >Not available, only learnt repos this semester...
 
