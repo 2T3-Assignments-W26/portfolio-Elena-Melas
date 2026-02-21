@@ -53,7 +53,7 @@ Console.Clear();
 ![EatorbeEaten Image 2](EatorbeEaten2.png)
 
 ### What I learned? (short reflection) ###
-Creating a big and long project like this one, especially for the first time requires a lot more time, organisation and commitment than I realised. The amount of hours spent on tweaking, problem-solving and adjusting certain issues, not matter the size, showed how much every little detail matters in your work and it is important to focus all of your attention on creating the best possible outcome in the time you have to perform this project.
+Creating a big and long project in *C#*, especially for the first time requires a lot more time, organisation and commitment than I realised. The amount of hours spent on tweaking, problem-solving and adjusting certain issues, not matter the size, showed how much every little detail matters in your work and it is important to focus all of your attention on creating the best possible outcome in the time you have to perform this project.
 
 ### Link to repo (if available) ###
 >Not available, only learnt repos this semester...
@@ -105,5 +105,7 @@ h3 {
 ![UI Website Page2](UI_Website_Page2.png)
 
 ### What I learned? (short reflection) ###
+*HTML* looks extremely bland without *CSS* and it is basically there to appeal to the viewer and it should capture and keep their attention on their screen as much as possible while viewing the site. Using ```float``` in CSS is also a horrible idea, it much easier and organised to use ```display = flex;```
+
 ### Link to repo (if available) ###
 >Not available, only learnt repos this semester...
