@@ -1,21 +1,27 @@
-Project 1:
+# Project 1: **Final Project Programming 1 - Eat or be eaten** #
 
-Description: 
-Technologies Used:
-Code Snippets from Projects:
-Screenshot from the Project:
+## Description: ##
+Create a game using our basic C# level knowledge. This game includes a score system, a menu, specific rules depending on the topic, setting area where the game takes place and an objective.
 
-What I learned? (short reflection)
-Link to repo (if available)
+## Technologies Used: ##
+## Code Snippets from Projects: ##
+## Screenshot from the Project: ##
 
-________________________________________________________________________
+### What I learned? (short reflection) ###
+### Link to repo (if available) ###
+>Not available, only learnt repos this semester...
 
-Project 2:
+*________________________________________________________________________*
 
-Description:
-Technologies Used:
-Code Snippets from Projects:
-Screenshot from the Project:
+# Project 2: **Lab User Interfaces - Ancient Greece Newspaper Website** #
 
-What I learned? (short reflection)
-Link to repo (if available)
+## Description: ##
+Help us understand the basic fundamentals of HTML and CSS by navigating a simple structure and creating a newspaper from a certain decade/era (I chose ancient Greece). Main idea: using float (how difficult it is).
+
+## Technologies Used: ##
+## Code Snippets from Projects: ##
+## Screenshot from the Project: ##
+
+### What I learned? (short reflection) ###
+### Link to repo (if available) ###
+>Not available, only learnt repos this semester...
